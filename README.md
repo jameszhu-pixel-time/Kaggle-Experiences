@@ -1,1 +1,2 @@
 # Kaggle-Experiences
+this file is for my personal experience in applying machine learning method tosolve real world problems, which will also be my future research focus. Algorithms are important, and the choice of model also plays an important role. My final goal is to get myself up to current tech approaches and do my best.
